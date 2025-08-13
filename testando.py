@@ -5,5 +5,5 @@ z = x + y
 print(f"A soma de x e y é igual a {z}")
 
 
-print("APENAS OUTRO TESTE")
+print("APENAS OUTRO TESTE.")
 
